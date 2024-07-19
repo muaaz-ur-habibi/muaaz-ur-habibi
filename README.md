@@ -1,16 +1,26 @@
-## Hi there 👋
-
-<!--
-**muaaz-ur-habibi/muaaz-ur-habibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Hey</h3>
+<h1 align="center">🖐, I'm Muaaz Khan</h1>
+<h3>I love</h3>
+<ul>
+  <li>⭕ Backends and Systems</li>
+  <li>⭕ Linux</li>
+  <li>⭕ Terminals and TUI/CUI</li>
+  <li>⭕ Cyber Sec</li>
+  <li>⭕ Mechs</li>
+  <li>⭕ A.I and humanoids</li>
+  <li>⭕ Just developing things</li>
+</ul>
+<h3>Non tech likes</h3>
+<ul>
+  <li>〰 Calisthenics a.k.a Bodyweight training</li>
+  <li>〰 MMA</li>
+  <li>〰 Futsal. I'm a G.K myself</li>
+  <li>〰 Anime</li>
+  <li>〰 Visual novels (only the semi/fully animated ones)</li>
+</ul>
+<h3>Currently training brain's neural networks to</h3>
+<ul>
+  <li>💨 code in Java and C++</li>
+  <li>💨 know basic web app security</li>
+  <li>💨 create artificial neural networks</li>
+</ul>
