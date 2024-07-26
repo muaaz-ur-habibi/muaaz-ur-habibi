@@ -1,4 +1,4 @@
-![:name](https://count.getloli.com/get/@muaaz?theme=rule34)
+<img align="center" src="https://count.getloli.com/get/@someone?theme=rule34"/>
 <h3 align="center">Hey</h3>
 <h1 align="center">🖐, I'm Muaaz Khan</h1>
 <h2 align="center">A Software Dev from the streets of Karachi</h2>
