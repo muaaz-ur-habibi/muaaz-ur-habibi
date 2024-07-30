@@ -5,7 +5,14 @@
 <h1 align="center">🖐, I'm Muaaz Khan</h1>
 <h2 align="center">A Python Dev from the streets of Karachi</h2>
 <h4 align="center">My personal site (I really dig the plain old look):<br>https://muaaz-ur-habibi.github.io/</h4>
-  
+<hr>
+<h3>Links:</h3>
+<ul>
+  <li><a href="https://www.linkedin.com/in/muaaz-khan-39801931a/">LinkedIn</a></li>
+  <li><a href="https://www.reddit.com/user/Ok-Balance4649/">Reddit</a></li>
+  <li><a href="https://www.instagram.com/muaaz_ur_habibi?igsh=YzU3YnlxbzN5ZG9k">Instagram</a></li>
+</ul>
+
 <h3>I love</h3>
 <ul>
   <li>⭕ Backends and Systems</li>
